@@ -1,0 +1,27 @@
+html,
+body {
+    height: 100%;
+    overflow: hidden;
+}
+
+#paddle-layer {
+    position: absolute;
+    background-color: #f2f2f2;
+    z-index: -2;
+}
+
+#ball-layer {
+    position: absolute;
+    z-index: -1;
+}
+
+#interface-layer {
+    position: absolute;
+}
+
+div.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
