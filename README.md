@@ -4,7 +4,7 @@ https://pjb6510.github.io/pong-game/pongGame.html
 
 # pong-game
 
-![main](./readmeAssets/main.gif)
+![main](./readmeAssets/main.png)
 
 클래식 퐁 게임입니다. 퐁 게임 공은 원래 네모입니다. 그것이 레트로 감성이니까.(끄덕)
 
